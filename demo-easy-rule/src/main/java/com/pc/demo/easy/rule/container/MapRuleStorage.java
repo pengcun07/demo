@@ -24,11 +24,6 @@ public class MapRuleStorage implements RuleStorage {
   }
 
   @Override
-  public boolean batchAdd(String groupName, Iterable<? extends BaseRule> rules) {
-    return map.putAll(groupName, rules);
-  }
-
-  @Override
   public boolean remove(String groupName, BaseRule rule) {
     return map.remove(groupName, rule);
   }
