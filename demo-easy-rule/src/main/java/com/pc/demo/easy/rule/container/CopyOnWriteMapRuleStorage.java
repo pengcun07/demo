@@ -16,9 +16,6 @@ public class CopyOnWriteMapRuleStorage implements RuleStorage {
 
   @Override
   public boolean add(String groupName, BaseRule rule) {
-    if (multimap.containsValue(groupName, rule)) {
-      multimap.removeValue(groupName, rule);
-    }
     return multimap.put(groupName, rule);
   }
 
