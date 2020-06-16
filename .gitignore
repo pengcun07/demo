@@ -1,0 +1,15 @@
+# idea
+.idea
+.gradle
+.settings
+
+# java
+bin
+build
+log
+out
+
+# project
+.project
+.editorconfig
+.classpath
