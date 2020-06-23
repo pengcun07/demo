@@ -13,6 +13,7 @@
 		<module>demo-easy-rule</module>
 		<module>demo-mybatis</module>
 		<module>demo-netty</module>
+		<module>demo-undertow</module>
 	</modules>
     
 	<properties>
