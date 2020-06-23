@@ -15,6 +15,7 @@
 		<module>demo-netty</module>
 		<module>demo-undertow</module>
 		<module>demo-jetty</module>
+		<module>demo-elastic</module>
 	</modules>
     
 	<properties>
