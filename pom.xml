@@ -14,6 +14,7 @@
 		<module>demo-mybatis</module>
 		<module>demo-netty</module>
 		<module>demo-undertow</module>
+		<module>demo-jetty</module>
 	</modules>
     
 	<properties>
