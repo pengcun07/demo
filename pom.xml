@@ -12,6 +12,7 @@
 		<module>demo-kafka</module>
 		<module>demo-easy-rule</module>
 		<module>demo-mybatis</module>
+		<module>demo-netty</module>
 	</modules>
     
 	<properties>
