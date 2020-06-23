@@ -11,6 +11,7 @@
 	<modules>
 		<module>demo-kafka</module>
 		<module>demo-easy-rule</module>
+		<module>demo-mybatis</module>
 	</modules>
     
 	<properties>
